@@ -1,10 +1,7 @@
- Hi, I’m @Butterflyee. A beginner Technical Writer, who specializes in User and API documentation. 
-I’m looking to gaining experience, whilst honing my skills in techwriting. 
-I look forward to collaborating on projects. 
+ Hi, I’m @Butterflyee. I write and maintain documentation, and I look forward to collaborating on projects.
  How to reach me: bewajioluwawunmi@gmail.com
 
 
 <!---
 Butterflyee/Butterflyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the Preview link to take a look at your cha
