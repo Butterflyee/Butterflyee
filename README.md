@@ -1,4 +1,4 @@
- Hi, I’m @Butterflyee. I write and maintain documentation, and I look forward to collaborating on projects.
+ Hi, I’m Butterflyee. I write and maintain documentation, and I look forward to collaborating on projects.
  Reach me @bewajioluwawunmi@gmail.com
 
 
